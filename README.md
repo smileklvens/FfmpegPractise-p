@@ -112,9 +112,7 @@ $  ls -lat libmylib.a
 $  clang -g -o testlib  test.c -I . -L . -lmylib
 $  ./testlib
 ```
->点击下面链接下载源码:
-[源码](git@github.com:smileklvens/ffmpegPractise.git)
-
+[部分源码](https://github.com/smileklvens/ffmpegPractise)
 ## 如有疏漏，请指出不胜感激，如有问题可以通过如下方式联系我 
 >[简书](https://www.jianshu.com/p/20cdcb1bce1b)
 [csdn](http://blog.csdn.net/qq_19307133/article/details/79058392)
